@@ -1,0 +1,5 @@
+rule,frauds_caught,false_alarms,precision_pct,recall_pct
+A: transfer >= 200k,2740,406370,0.67,33.4
+B: A + account emptied,2577,187018,1.36,31.4
+C: transfer/cash-out + emptied + night (01-06h),1990,1618,55.16,24.2
+Existing rule (isFlaggedFraud),16,0,100.00,0.2

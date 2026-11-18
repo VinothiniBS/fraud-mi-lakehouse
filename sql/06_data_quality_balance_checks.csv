@@ -1,0 +1,6 @@
+txn_type,txns,pct_balance_mismatch,pct_dest_zero_balances
+CASH_IN,1399284,0.0,11.4
+CASH_OUT,2237500,88.5,0.1
+DEBIT,41432,28.4,0.0
+PAYMENT,2151495,51.2,0.0
+TRANSFER,532909,95.2,0.8
