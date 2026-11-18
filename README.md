@@ -76,7 +76,6 @@ often don't reconcile, so the "account emptied" signal needs checking on real da
 
 ## Power BI report
 
-<!-- Add screenshots after building the report -->
 1. **Executive summary:** KPIs, fraud over time, fraud by type and by amount band.
 2. **Fraud deep-dive:** fraud rate by hour of day, and the control test.
 3. **Data quality:** balance reconciliation checks by transaction type.
