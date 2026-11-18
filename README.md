@@ -95,6 +95,7 @@ sql/04_fraud_by_hour_of_day.sql
 sql/05_rule_threshold_test.sql
 sql/06_data_quality_balance_checks.sql
 sql/07_combined_rule_test.sql
+results/*.csv                          the output of each query, same numbering
 powerbi/Fraud_MI_Report.pbix           Power BI report
 images/                                report screenshots
 ```
