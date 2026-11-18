@@ -98,8 +98,3 @@ sql/07_combined_rule_test.sql
 powerbi/Fraud_MI_Report.pbix           Power BI report
 images/                                report screenshots
 ```
-
-## Author
-
-Vinothini Balasubramani · [Portfolio](https://vinothinibs.github.io/portfolio) ·
-[LinkedIn](https://linkedin.com/in/vinothini-balasubramani)
